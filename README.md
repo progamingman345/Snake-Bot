@@ -16,3 +16,4 @@ HOW TO SETUP :
 Hope this repo helped you 
 Join our discord server if need help or errors 
 Heres is the link : https://discord.gg/32JT2gv3xB
+Enjoy :)
